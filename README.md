@@ -1,6 +1,6 @@
 # datasci-schule
 
-Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visualisierung von Daten zur Verwendung in der gymnasialen Oberstufe.
+Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visualisierung von Daten zur Verwendung in der gymnasialen Oberstufe. Es entsteht begleitend zu einem Seminarkurs an einem Gymnasium in Baden-Württemberg.
 
 ## Literatur
 - [Datenanalyse mit Python](https://oreilly.de/produkt/datenanalyse-mit-python-2/) - Wes McKinney,2018, O'Reilly
