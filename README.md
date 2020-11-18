@@ -3,6 +3,8 @@
 Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visualisierung von Daten zur Verwendung in der gymnasialen Oberstufe.
 
 ## Literatur
+- [Datenvisualisierung - Grundlagen und Praxis](https://oreilly.de/produkt/datenvisualisierung-grundlagen-und-praxis/) - Claus O. Wilke, 2020, O'Reilly
+- [Einführung in Data Science](https://oreilly.de/produkt/einfuehrung-in-data-science-2/) - Joel Grus, 2019, O'Reilly
 
 ## Online-Tools
 - [Tableau](https://www.tableau.com/de-de) - Daten visualisieren und erkunden
