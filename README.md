@@ -9,6 +9,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 
 ## Online-Tools
 - [Datawrapper](https://app.datawrapper.de/) - Onlinetool um Diagramme zu zeichnen
+- [Gapminder](https://www.gapminder.org/tools/#$chart-type=bubbles) - Onlinetool um Daten schnell zu visualisieren
 - [Plotly](https://chart-studio.plotly.com/) - Diagramme plottem
 - [Tableau](https://www.tableau.com/de-de) - Daten visualisieren und erkunden
 
@@ -21,6 +22,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 
 ## Offene Daten
 ### Algemein
+- [data.gov](https://www.data.gov) - OpenData-Portal der USA
 - [DWD](https://www.dwd.de/DE/leistungen/opendata/opendata.html) - Das OpenData-Portal des Deutschen Wetterdienstes
 - [EU Open Data](https://data.europa.eu/euodp/en/home) - OpenData-Portal der EU
 - [Google Trends](https://trends.google.com/trends/?geo=DE) - Vergleich von Suchanfragen bei Google
