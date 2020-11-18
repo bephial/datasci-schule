@@ -27,6 +27,3 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [ECDC](https://www.ecdc.europa.eu/en/covid-19/data) - Daten des European Centre for Disease Prevention and Control
 - [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0/data) - aktuelle Datensätze des RKI für Deutschland
 - [WHO](https://covid19.who.int/table) - weltweite Daten der Weltgesundheitsorganisation
-
-## Skurriles
-- [Correlation Tracker](https://www.sectorspdr.com/sectorspdr/tools/correlation-tracker) - Die Seite sucht nach Korrelationen zwischen Variablen, die (sehr wahrscheinlich) nichts miteinander zu tun habe.
