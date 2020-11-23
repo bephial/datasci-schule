@@ -17,8 +17,12 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [Anaconda](https://www.anaconda.com/) - Eine Distribution für Data Science Tools (hauptsächlich um Python)
 - [Orange](https://orange.biolab.si/) - Ein Data Mining Werkzeug
 - [Python](https://www.python.org) - Eine mächtige Programmiersprache
-  - [Test]
+  - [Pandas](https://pandas.pydata.org/) - Daten verarbeiten
+  - [NumPy](https://numpy.org/) - numerical computing
+  - [Matplotlib](https://matplotlib.org/) - Plots erzeugen
+  - [Scikit-learn](https://scikit-learn.org/stable/) - Machine Learning
 - [R](https://www.r-project.org/) - Statistical computing
+    - [RStudio Desktop](https://rstudio.com/products/rstudio/#rstudio-desktop) - IDE für R
 - [Spyder](https://www.spyder-ide.org/) - Eine wissenschaftliche Python-IDE
 - [Tidyverse](https://www.tidyverse.org/) - R packages for data science
 
