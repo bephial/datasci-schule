@@ -3,19 +3,21 @@
 Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visualisierung von Daten zur Verwendung in der gymnasialen Oberstufe. Es entsteht begleitend zu einem Seminarkurs an einem Gymnasium in Baden-Württemberg.
 
 ## Literatur & Tutorials
-- [Datenanalyse mit Python](https://oreilly.de/produkt/datenanalyse-mit-python-2/) - Wes McKinney,2018, O'Reilly
+- [Datenanalyse mit Python](https://oreilly.de/produkt/datenanalyse-mit-python-2/) - Wes McKinney, 2018, O'Reilly
 - [Datenvisualisierung - Grundlagen und Praxis](https://oreilly.de/produkt/datenvisualisierung-grundlagen-und-praxis/) - Claus O. Wilke, 2020, O'Reilly
 - [Einführung in Data Science](https://oreilly.de/produkt/einfuehrung-in-data-science-2/) - Joel Grus, 2019, O'Reilly
 - [Tutorial-Sammlung](https://www.dataquest.io/python-tutorials-for-data-science/) - Englische Tutorials
 
 ## Online-Tools
 - [Datawrapper](https://app.datawrapper.de/) - Onlinetool um Diagramme zu zeichnen
+- [DevDocs](https://devdocs.io) - Online-Referenzen zu vielen APIs
 - [Gapminder](https://www.gapminder.org/tools/#$chart-type=bubbles) - Onlinetool um Daten schnell zu visualisieren
 - [Plotly](https://chart-studio.plotly.com/) - Diagramme plottem
 - [Tableau](https://www.tableau.com/de-de) - Daten visualisieren und erkunden
 
 ## Software
-- [Anaconda](https://www.anaconda.com/) - Eine Distribution für Data Science Tools (hauptsächlich um Python)
+- [Anaconda](https://www.anaconda.com/) - Eine Python-Distribution für Data Science
+- [OpenRefine](https://openrefine.org) - Daten säubern und transformieren
 - [Orange](https://orange.biolab.si/) - Ein Data Mining Werkzeug
 - [Python](https://www.python.org) - Eine mächtige Programmiersprache
   - [Pandas](https://pandas.pydata.org/) - Daten verarbeiten
@@ -24,8 +26,11 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
   - [Scikit-learn](https://scikit-learn.org/stable/) - Machine Learning
 - [R](https://www.r-project.org/) - Statistical computing
     - [RStudio Desktop](https://rstudio.com/products/rstudio/#rstudio-desktop) - IDE für R
+- [SciDAVis](http://scidavis.sourceforge.net) - Datenanalyse und Visualisierung
+- [Seahorse](https://seahorse.deepsense.ai) - Visuelle Dataflows erstellen
 - [Spyder](https://www.spyder-ide.org/) - Eine wissenschaftliche Python-IDE
 - [Tidyverse](https://www.tidyverse.org/) - R packages for data science
+- [VisualStudioCode](https://code.visualstudio.com) - Ein mächtiger, erweiterbarer Editor
 
 ## Offene Daten
 ### Algemein
