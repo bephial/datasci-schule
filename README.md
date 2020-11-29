@@ -17,6 +17,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 
 ## Software
 - [Anaconda](https://www.anaconda.com/) - Eine Python-Distribution für Data Science
+- [Bokeh](https://docs.bokeh.org/en/latest/) - Eine Python Bibliothek zur Datenvisualisierung
 - [OpenRefine](https://openrefine.org) - Daten säubern und transformieren
 - [Orange](https://orange.biolab.si/) - Ein Data Mining Werkzeug
 - [Python](https://www.python.org) - Eine mächtige Programmiersprache
