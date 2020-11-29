@@ -34,7 +34,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [VisualStudioCode](https://code.visualstudio.com) - Ein mächtiger, erweiterbarer Editor
 
 ## Offene Daten
-### Algemein
+### Allgemein
 - [data.gov](https://www.data.gov) - OpenData-Portal der USA
 - [DWD](https://www.dwd.de/DE/leistungen/opendata/opendata.html) - Das OpenData-Portal des Deutschen Wetterdienstes
 - [EU Open Data](https://data.europa.eu/euodp/en/home) - OpenData-Portal der EU
