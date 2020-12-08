@@ -7,6 +7,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [Datenvisualisierung - Grundlagen und Praxis](https://oreilly.de/produkt/datenvisualisierung-grundlagen-und-praxis/) - Claus O. Wilke, 2020, O'Reilly
 - [Einführung in Data Science](https://oreilly.de/produkt/einfuehrung-in-data-science-2/) - Joel Grus, 2019, O'Reilly
 - [Tutorial-Sammlung](https://www.dataquest.io/python-tutorials-for-data-science/) - Englische Tutorials
+- [Literaturverzeochnis bei Zotero](https://www.zotero.org/groups/2646283/data_science__visualization/library)
 
 ## Online-Tools
 - [Datawrapper](https://app.datawrapper.de/) - Onlinetool um Diagramme zu zeichnen
