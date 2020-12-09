@@ -10,14 +10,14 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [Blog zu data-science-Themen](https://flowingdata.com) - von Nathan Yau (UCLA)
 - [Literaturverzeichnis bei Zotero](https://www.zotero.org/groups/2646283/data_science__visualization/library)
 
-## Online-Tools
+## Online-Tools (SaS)
 - [Datawrapper](https://app.datawrapper.de/) - Onlinetool um Diagramme zu zeichnen
 - [DevDocs](https://devdocs.io) - Online-Referenzen zu vielen APIs
 - [Gapminder](https://www.gapminder.org/tools/#$chart-type=bubbles) - Onlinetool um Daten schnell zu visualisieren
 - [Plotly](https://chart-studio.plotly.com/) - Diagramme plottem
 - [Tableau](https://www.tableau.com/de-de) - Daten visualisieren und erkunden
 
-## Software
+## Software & Apps
 - [Anaconda](https://www.anaconda.com/) - Eine Python-Distribution für Data Science
 - [Bokeh](https://docs.bokeh.org/en/latest/) - Eine Python Bibliothek zur Datenvisualisierung
 - [Metabase](https://www.metabase.com) - BI-Software
