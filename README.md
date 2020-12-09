@@ -30,7 +30,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
   - [Scikit-learn](https://scikit-learn.org/stable/) - Machine Learning
 - [R](https://www.r-project.org/) - Statistical computing
     - [RStudio Desktop](https://rstudio.com/products/rstudio/#rstudio-desktop) - IDE für R
-- [RawHraphs](https://rawgraphs.io) - Data visualization framework
+- [RawGraphs](https://rawgraphs.io) - Data visualization framework
 - [SandDance](https://sanddance.js.org) - visuelles Erforschen von Daten.
 - [SciDAVis](http://scidavis.sourceforge.net) - Datenanalyse und Visualisierung
 - [Seahorse](https://seahorse.deepsense.ai) - Visuelle Dataflows erstellen
