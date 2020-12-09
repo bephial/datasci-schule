@@ -45,6 +45,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [EU Open Data](https://data.europa.eu/euodp/en/home) - OpenData-Portal der EU
 - [Google Trends](https://trends.google.com/trends/?geo=DE) - Vergleich von Suchanfragen bei Google
 - [GovData](https://www.govdata.de) - Das OpenData-Portal für Deutschland
+- [Meteostat](https://meteostat.net/de) - Offene Klimadaten
 - [NOOA Datenportal](https://data.noaa.gov/datasetsearch/) - Datenportal der US National Oceanic and Atmospheric Administration
 - [Our World in data](https://ourworldindata.org/) - Eine Webseite mit umfangreichen Daten zu verschiedenen Themen
 - [PANGAEA](https://www.pangaea.de) - Open Access zu Geo- und Umweltdaten
