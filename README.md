@@ -36,6 +36,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [Seahorse](https://seahorse.deepsense.ai) - Visuelle Dataflows erstellen
 - [Spyder](https://www.spyder-ide.org/) - Eine wissenschaftliche Python-IDE
 - [Tidyverse](https://www.tidyverse.org/) - R packages for data science
+- [Typora](https://typora.io) - Ein Markdown-Editor
 - [VisualStudioCode](https://code.visualstudio.com) - Ein mächtiger, erweiterbarer Editor
 
 ## Offene Daten
