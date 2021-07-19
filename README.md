@@ -19,6 +19,7 @@ Dieses Dokument ist eine Sammlung von Ressourcen für die Auswertung und Visuali
 - [Tableau](https://www.tableau.com/de-de) - Daten visualisieren und erkunden
 
 ## Software & Apps
+Open Source Software findet man allgemein auf [Awesome Open Source](https://awesomeopensource.com)
 - [Anaconda](https://www.anaconda.com/) - Eine Python-Distribution für Data Science
 - [Bokeh](https://docs.bokeh.org/en/latest/) - Eine Python Bibliothek zur Datenvisualisierung
 - [Metabase](https://www.metabase.com) - BI-Software
