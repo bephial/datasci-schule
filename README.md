@@ -53,11 +53,19 @@ Open Source Software findet man allgemein auf [Awesome Open Source](https://awes
 - [Our World in data](https://ourworldindata.org/) - Eine Webseite mit umfangreichen Daten zu verschiedenen Themen
 - [PANGAEA](https://www.pangaea.de) - Open Access zu Geo- und Umweltdaten
 - [World Bank OpenData](https://data.worldbank.org) - Die Datensätze der Weltbank
+- [EarthData](https://earthdata.nasa.gov//) - Datasets der NASA
+- [CERN](http://opendata.cern.ch/) - OpenData-Portal des CERN
+- [bfi](https://www.bfi.org.uk/industry-data-insights) - Daten zum Thema Film
+- [FBI](https://crime-data-explorer.fr.cloud.gov/pages/home) - Daten zur Kriminalstatistik des FBI
+- [Million Songs](http://millionsongdataset.com/pages/additional-datasets/) - Musik-Datasets
 ### COVID 19
 - [ECDC](https://www.ecdc.europa.eu/en/covid-19/data) - Daten des European Centre for Disease Prevention and Control
 - [owid](https://github.com/owid/covid-19-data/tree/master/public/data) - Daten von "Our World in Data"
 - [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0/data) - aktuelle Datensätze des RKI für Deutschland
 - [WHO](https://covid19.who.int/table) - weltweite Daten der Weltgesundheitsorganisation
 ### Sammlungen
-- [Awesome piblic datasets](https://github.com/awesomedata/awesome-public-datasets) - Sammlung auf GitHub
+- [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) - Sammlung auf GitHub
 - [Datahub.io](https://datahub.io/collections) - Datasets
+- [Kaggle](https://www.kaggle.com/datasets) - Kaggle.com
+- [KDnuggets](https://www.kdnuggets.com/datasets/index.html) - Datensets
+- [r/datasets](https://www.reddit.com/r/datasets/) - Datasets auf reddit
