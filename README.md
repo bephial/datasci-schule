@@ -58,3 +58,6 @@ Open Source Software findet man allgemein auf [Awesome Open Source](https://awes
 - [owid](https://github.com/owid/covid-19-data/tree/master/public/data) - Daten von "Our World in Data"
 - [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0/data) - aktuelle Datensätze des RKI für Deutschland
 - [WHO](https://covid19.who.int/table) - weltweite Daten der Weltgesundheitsorganisation
+### Sammlungen
+- [Awesome piblic datasets](https://github.com/awesomedata/awesome-public-datasets) - Sammlung auf GitHub
+- [Datahub.io](https://datahub.io/collections) - Datasets
