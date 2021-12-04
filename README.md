@@ -33,7 +33,7 @@ Open Source Software findet man allgemein auf [Awesome Open Source](https://awes
 - [R](https://www.r-project.org/) - Statistical computing
     - [RStudio Desktop](https://rstudio.com/products/rstudio/#rstudio-desktop) - IDE für R
 - [RawGraphs](https://rawgraphs.io) - Data visualization framework
-- [SandDance](https://sanddance.js.org) - visuelles Erforschen von Daten.
+- [SandDance](https://microsoft.github.io/SandDance/) - visuelles Erforschen von Daten.
 - [SciDAVis](http://scidavis.sourceforge.net) - Datenanalyse und Visualisierung
 - [Seahorse](https://seahorse.deepsense.ai) - Visuelle Dataflows erstellen
 - [Spyder](https://www.spyder-ide.org/) - Eine wissenschaftliche Python-IDE
