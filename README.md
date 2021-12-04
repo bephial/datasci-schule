@@ -58,6 +58,7 @@ Open Source Software findet man allgemein auf [Awesome Open Source](https://awes
 - [bfi](https://www.bfi.org.uk/industry-data-insights) - Daten zum Thema Film
 - [FBI](https://crime-data-explorer.fr.cloud.gov/pages/home) - Daten zur Kriminalstatistik des FBI
 - [Million Songs](http://millionsongdataset.com/pages/additional-datasets/) - Musik-Datasets
+- [NBA](https://www.kaggle.com/wyattowalsh/basketball) - Alle NBA-Spiele seit 1946
 ### COVID 19
 - [ECDC](https://www.ecdc.europa.eu/en/covid-19/data) - Daten des European Centre for Disease Prevention and Control
 - [owid](https://github.com/owid/covid-19-data/tree/master/public/data) - Daten von "Our World in Data"
