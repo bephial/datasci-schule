@@ -70,3 +70,5 @@ Open Source Software findet man allgemein auf [Awesome Open Source](https://awes
 - [Kaggle](https://www.kaggle.com/datasets) - Kaggle.com
 - [KDnuggets](https://www.kdnuggets.com/datasets/index.html) - Datensets
 - [r/datasets](https://www.reddit.com/r/datasets/) - Datasets auf reddit
+### visualisierte Daten
+- [River](https://river.datawrapper.de)
